@@ -1,0 +1,18 @@
+{
+  "name": "xuanhuai-desktop",
+  "version": "0.6.2",
+  "private": true,
+  "description": "宣怀 macOS 客户端 agent",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "node --test test/*.test.js",
+    "build": "node scripts/build.js",
+    "test:ui": "electron scripts/verify-ui.js"
+  },
+  "devDependencies": {
+    "@electron/packager": "20.3.0",
+    "electron": "45.3.2",
+    "ws": "^8.23.0"
+  }
+}

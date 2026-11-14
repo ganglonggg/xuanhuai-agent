@@ -1,0 +1,8 @@
+{
+  "name": "xuanhuai-agent",
+  "version": "0.2.0",
+  "private": true,
+  "description": "宣怀个人 agent 与共享信息服务，本地验证版",
+  "scripts": { "start": "node server.js", "test": "node --test --test-concurrency=1 test/*.test.js", "mcp": "node mcp.js" },
+  "engines": { "node": ">=22" }
+}

@@ -1,0 +1,224 @@
+{
+  "week_start": "2026-11-16",
+  "week_end": "2026-11-22",
+  "week_number": 12,
+  "week_parity": "双周",
+  "week_number_basis": "《科创领导力》写明第 4–11 周，最后一讲为 11 月 10 日（Charles 2026-11-15 确认已结课），故 11 月 9 日那周为第 11 周。单双周规则与四期课表逐期核对一致。",
+  "status": "draft",
+  "publishable": false,
+  "note": "草稿。按课程介绍文章里写明的起止周次和单双周推算，再与四期课表核对。未经老师确认，未发布。",
+  "rows": [
+    {
+      "course_id": "stanford",
+      "course_name": "《从“斯坦福+硅谷”到“天大+碳湾”》",
+      "teacher": "刘毅",
+      "topic": null,
+      "sessions": [
+        {
+          "weekday": "周三",
+          "date": "2026-11-18"
+        }
+      ],
+      "start_time": "18:30",
+      "end_time": "21:45",
+      "campus": "北洋园校区",
+      "classroom": "45楼B110",
+      "location_note": null,
+      "week_rule": "第 4–18 周，双周周三 9–12 节",
+      "basis": [
+        "2026-07-20 课程介绍文章",
+        "2026-10-19 课表"
+      ],
+      "pending_fields": [],
+      "question_for_teacher": null,
+      "status": "draft",
+      "student_label": "沿用本学期安排，本周待确认",
+      "publishable": false
+    },
+    {
+      "course_id": "design",
+      "course_name": "《玩转设计与文创:提升你的审美力》",
+      "teacher": "花明泊",
+      "topic": null,
+      "sessions": [
+        {
+          "weekday": "周四",
+          "date": "2026-11-19"
+        }
+      ],
+      "start_time": "15:25",
+      "end_time": "17:00",
+      "campus": "北洋园校区",
+      "classroom": "三问园宣怀学院208",
+      "location_note": null,
+      "week_rule": "周次规则未见于资料；四期课表每期都有",
+      "basis": [
+        "2026-10-12/19/26、11-09 课表"
+      ],
+      "pending_fields": [
+        "is_running"
+      ],
+      "question_for_teacher": "这门课的起止周次资料里没有。这周还上吗？",
+      "status": "draft",
+      "student_label": "沿用本学期安排，本周待确认",
+      "publishable": false
+    },
+    {
+      "course_id": "growth",
+      "course_name": "《创新企业营销战略与实战》",
+      "teacher": "崔宇杰",
+      "topic": null,
+      "sessions": [
+        {
+          "weekday": "周四",
+          "date": "2026-11-19"
+        }
+      ],
+      "start_time": "18:30",
+      "end_time": "21:45",
+      "campus": "北洋园校区",
+      "classroom": "三问园宣怀学院208",
+      "location_note": null,
+      "week_rule": "第 4–18 周，双周周四 9–12 节",
+      "basis": [
+        "2026-09-16 课程介绍文章",
+        "2026-10-19 课表"
+      ],
+      "pending_fields": [],
+      "question_for_teacher": null,
+      "status": "draft",
+      "student_label": "沿用本学期安排，本周待确认",
+      "publishable": false
+    },
+    {
+      "course_id": "lecture",
+      "course_name": "创业大讲堂（《创业认知基础》）",
+      "teacher": null,
+      "topic": null,
+      "sessions": [
+        {
+          "weekday": "周四",
+          "date": "2026-11-19"
+        }
+      ],
+      "start_time": "18:30",
+      "end_time": "21:45",
+      "campus": "卫津路校区",
+      "classroom": "26教B203",
+      "location_note": null,
+      "week_rule": "近五周中四周有（第 7、9、10、11 周）",
+      "basis": [
+        "2026-10-12、10-26、11-09 课表",
+        "11-05 场次预告"
+      ],
+      "pending_fields": [
+        "teacher",
+        "topic",
+        "classroom",
+        "is_running"
+      ],
+      "question_for_teacher": "这周有大讲堂吗？嘉宾和主题是什么？教室还是 26 教 B203 吗？",
+      "status": "draft",
+      "student_label": "沿用本学期安排，本周待确认",
+      "publishable": false
+    },
+    {
+      "course_id": "practice",
+      "course_name": "《创业实战训练课》",
+      "teacher": "杨晓峰",
+      "topic": null,
+      "sessions": [
+        {
+          "weekday": "周五",
+          "date": "2026-11-20"
+        }
+      ],
+      "start_time": "13:30",
+      "end_time": "17:00",
+      "campus": null,
+      "classroom": null,
+      "location_note": "赴企业上课",
+      "week_rule": "推断为双周周五（第 8、10 周出现；单周周五是《AI×产业》）",
+      "basis": [
+        "2026-10-19 课表",
+        "2026-11-13 回顾文章（11 月 6 日走进华芯）"
+      ],
+      "pending_fields": [
+        "classroom",
+        "campus",
+        "is_running"
+      ],
+      "question_for_teacher": "周五下午是《创业实战训练课》吗？去哪家企业、在哪集合？",
+      "status": "draft",
+      "student_label": "沿用本学期安排，本周待确认",
+      "publishable": false
+    }
+  ],
+  "not_this_week": [
+    {
+      "course_name": "《寻找第一个客户》",
+      "reason": "第 5–19 周单周周一",
+      "basis": "2026-07-23 课程介绍文章"
+    },
+    {
+      "course_name": "《硬科技企业资本力提升之路》",
+      "reason": "单周周一",
+      "basis": "2026-07-20 课程介绍文章"
+    },
+    {
+      "course_name": "《在玩耍中学习:创业者的进阶修炼》",
+      "reason": "第 5–19 周单周周二",
+      "basis": "2026-09-17 课程介绍文章"
+    },
+    {
+      "course_name": "《AI驱动的一人公司（OPC）创业实践》",
+      "reason": "单周周二",
+      "basis": "2026-07-23、08-20 课程介绍文章"
+    },
+    {
+      "course_name": "《AI×产业：产品研发创新实践课》",
+      "reason": "推断为单周周五（第 7、9、11 周出现）",
+      "basis": "三期课表；资料里没有写明周次，属推断"
+    },
+    {
+      "course_name": "《御风而行：科创CEO的资本之道》",
+      "reason": "推断为单周（第 7、9、11 周出现）",
+      "basis": "三期课表；资料里没有写明周次，属推断"
+    }
+  ],
+  "ended": [
+    {
+      "course_name": "《科创领导力》",
+      "reason": "第 4–11 周",
+      "confirmed": "Charles 2026-11-15 确认已结课"
+    },
+    {
+      "course_name": "《以人为本：创业团队的人才引擎构建》",
+      "reason": "第 4–11 周周一",
+      "confirmed": "未确认，按 2026-09-02 文章推算"
+    },
+    {
+      "course_name": "《技术创新与产品研发管理实践》",
+      "reason": "第 4–11 周周六",
+      "confirmed": "未确认，按 2026-08-24 文章推算"
+    },
+    {
+      "course_name": "《AI-driven工作流创新实践课》",
+      "reason": "第 4–11 周周四",
+      "confirmed": "未确认，按 2026-07-21、08-19 文章推算"
+    }
+  ],
+  "unknown": [
+    {
+      "course_name": "《创业成功之路(翻转)》",
+      "reason": "只在 11 月 9 日一期出现（周一、周三下午），资料里没有周次"
+    }
+  ],
+  "questions": [
+    "下周是第 12 周、双周，对吗？",
+    "《以人为本》《技术创新与产品研发管理实践》《AI-driven 工作流创新实践课》介绍里写的都是第 4–11 周，是否都已结课？",
+    "周四晚创业大讲堂：这周有吗？嘉宾和主题是什么？教室还是 26 教 B203 吗？",
+    "周五下午是《创业实战训练课》吗？去哪家企业、在哪集合？",
+    "《玩转设计与文创》《御风而行》《创业成功之路（翻转）》这周分别有没有？"
+  ]
+}

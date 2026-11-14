@@ -1,0 +1,80 @@
+[
+  {
+    "label": "2026级科创硕士夏令营招生（届别不是活动年份）",
+    "candidate_ids": [
+      "candidate-article-4626392af8be-1",
+      "candidate-article-c82197457af8-1",
+      "candidate-docx-summary2-0279-1"
+    ],
+    "status": "疑似同一安排的多来源，待核对后合并",
+    "merged": false
+  },
+  {
+    "label": "科创领导力2026年春季文章中的双周旁听安排",
+    "candidate_ids": [
+      "candidate-article-aacd1d15cccd-1",
+      "candidate-article-d5408feb6852-1",
+      "candidate-article-c6e4eac271d6-1",
+      "candidate-article-ed9f6559a593-1",
+      "candidate-docx-summary2-0197-1"
+    ],
+    "status": "疑似同一安排的多来源，待核对后合并",
+    "merged": false
+  },
+  {
+    "label": "AI驱动的一人公司（OPC）创业实践｜开始 2026-11-10T18:30:00+08:00｜报名截止 未知（同系列同时间节点）",
+    "candidate_ids": [
+      "candidate-docx-summary-0007-1",
+      "candidate-docx-summary-0009-1"
+    ],
+    "status": "疑似同一安排的多来源，待核对后合并",
+    "merged": false
+  },
+  {
+    "label": "斯坦福·硅谷研学｜开始 未知｜报名截止 2026-10-29T23:59:00+08:00（同系列同时间节点）",
+    "candidate_ids": [
+      "candidate-docx-summary-0022-1",
+      "candidate-docx-summary-0032-1"
+    ],
+    "status": "疑似同一安排的多来源，待核对后合并",
+    "merged": false
+  },
+  {
+    "label": "天津大学创新创业新年论坛｜开始 2026-01-11｜报名截止 未知（同系列同时间节点）",
+    "candidate_ids": [
+      "candidate-docx-summary2-0208-1",
+      "candidate-docx-summary2-0211-1"
+    ],
+    "status": "疑似同一安排的多来源，待核对后合并",
+    "merged": false
+  },
+  {
+    "label": "天津大学创新创业新年论坛｜开始 未知｜报名截止 2026-01-09T12:00:00+08:00（同系列同时间节点）",
+    "candidate_ids": [
+      "candidate-docx-summary2-0212-1",
+      "candidate-docx-summary2-0212-2",
+      "candidate-docx-summary2-0212-3"
+    ],
+    "status": "疑似同一安排的多来源，待核对后合并",
+    "merged": false
+  },
+  {
+    "label": "致新班｜开始 2025-10-25｜报名截止 2025-10-17T12:00:00+08:00（同系列同时间节点）",
+    "candidate_ids": [
+      "candidate-docx-summary2-0232-2",
+      "candidate-docx-summary2-0249-1"
+    ],
+    "status": "疑似同一安排的多来源，待核对后合并",
+    "merged": false
+  },
+  {
+    "label": "北洋海棠杯｜开始 未知｜报名截止 2025-07-20（同系列同时间节点）",
+    "candidate_ids": [
+      "candidate-docx-summary2-0281-2",
+      "candidate-docx-summary2-0284-1",
+      "candidate-docx-summary2-0289-1"
+    ],
+    "status": "疑似同一安排的多来源，待核对后合并",
+    "merged": false
+  }
+]

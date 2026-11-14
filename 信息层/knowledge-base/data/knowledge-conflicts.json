@@ -1,0 +1,29 @@
+[
+  {
+    "id": "zhixin-fourth-second-batch-interview",
+    "topic": "第四届致新班第二批面试时间",
+    "article_ids": [
+      "docx-summary-0044",
+      "docx-summary-0003"
+    ],
+    "guidance": "9月28日旧通知预留2026年12月补充面试；11月10日较新通知明确写11月28日面试。应优先核对较新通知，不将旧文的12月当作最新安排；尚未联系老师确认。",
+    "status": "来源版本差异，待核对",
+    "evidence": [
+      {
+        "article_id": "docx-summary-0044",
+        "document_paragraph": 2451,
+        "quote": "第二批：补充面试（为时间冲突者预留通道）"
+      },
+      {
+        "article_id": "docx-summary-0044",
+        "document_paragraph": 2452,
+        "quote": "时间：2026年12月（根据天津大学辅修报名通知发布时间确定）"
+      },
+      {
+        "article_id": "docx-summary-0003",
+        "document_paragraph": 375,
+        "quote": "🗓 面试时间：2026年11月28日"
+      }
+    ]
+  }
+]

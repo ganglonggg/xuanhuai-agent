@@ -1,0 +1,13 @@
+.DS_Store
+node_modules/
+dist/
+.stage/
+.releases/
+test-artifacts/
+__pycache__/
+*.pyc
+*.log
+.env
+.env.*
+*.sqlite
+*.db

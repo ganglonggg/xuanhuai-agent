@@ -1,0 +1,21 @@
+{
+  "as_of": "2026-11-15",
+  "articles": 329,
+  "articles_last_year": 244,
+  "pending_ingestion": 4,
+  "series": 70,
+  "fact_candidates": 200,
+  "published_facts": 2,
+  "passages": 3388,
+  "image_notes": {
+    "inspected": 60
+  },
+  "coverage": "现有四个合集及用户提供文章，非完整公众号历史；本轮未采集新的线上信息。",
+  "refined_document_articles": 272,
+  "document_key_points": 963,
+  "source_kinds": {
+    "wechat_archive": 57,
+    "docx": 272
+  },
+  "minimal_cards_missing_content": 5
+}

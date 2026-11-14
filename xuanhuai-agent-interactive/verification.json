@@ -1,0 +1,166 @@
+{
+  "testedAt": "2026-11-14T22:09:03.356Z",
+  "results": [
+    {
+      "label": "source page CSS and original logo load",
+      "pass": true
+    },
+    {
+      "label": "desktop no overflow",
+      "pass": true
+    },
+    {
+      "label": "standalone has no external CSS, JS or image dependencies",
+      "pass": true
+    },
+    {
+      "label": "all sections initialized",
+      "pass": true
+    },
+    {
+      "label": "course filter",
+      "pass": true
+    },
+    {
+      "label": "search empty state",
+      "pass": true
+    },
+    {
+      "label": "follow state sync",
+      "pass": true
+    },
+    {
+      "label": "detail and demo source disclaimer",
+      "pass": true
+    },
+    {
+      "label": "question is local draft not sent",
+      "pass": true
+    },
+    {
+      "label": "calendar next week",
+      "pass": true
+    },
+    {
+      "label": "interview unknown preserved and review required",
+      "pass": true
+    },
+    {
+      "label": "profile confirmed with unknowns",
+      "pass": true
+    },
+    {
+      "label": "user-entered HTML escaped",
+      "pass": true
+    },
+    {
+      "label": "change requires separate confirmation",
+      "pass": true
+    },
+    {
+      "label": "time-limited change confirmed",
+      "pass": true
+    },
+    {
+      "label": "profile change undo",
+      "pass": true
+    },
+    {
+      "label": "sharing is opt-in",
+      "pass": true
+    },
+    {
+      "label": "interest waits without contacts",
+      "pass": true
+    },
+    {
+      "label": "mutual interest still requires separate contact permission",
+      "pass": true
+    },
+    {
+      "label": "contact permission flow",
+      "pass": true
+    },
+    {
+      "label": "decline closes without automatic profile mutation",
+      "pass": true
+    },
+    {
+      "label": "reduced-motion preference",
+      "pass": true
+    },
+    {
+      "label": "private profile not in long-term storage",
+      "pass": true
+    },
+    {
+      "label": "mobile no overflow",
+      "pass": true
+    },
+    {
+      "label": "mobile dialog fits viewport",
+      "pass": true
+    },
+    {
+      "label": "mobile calendar uses day selector and readable agenda",
+      "pass": true
+    },
+    {
+      "label": "mobile bottom nav remains at bottom after scrolling",
+      "pass": true
+    },
+    {
+      "label": "responsive width 320",
+      "pass": true
+    },
+    {
+      "label": "responsive width 768",
+      "pass": true
+    },
+    {
+      "label": "responsive width 1024",
+      "pass": true
+    },
+    {
+      "label": "native wheel scroll and silk parallax",
+      "pass": true
+    },
+    {
+      "label": "refresh clears private session",
+      "pass": true
+    },
+    {
+      "label": "home query routes to filtered cards instead of interview",
+      "pass": true
+    },
+    {
+      "label": "card hover lift",
+      "pass": true
+    },
+    {
+      "label": "real pointer opens detail",
+      "pass": true
+    },
+    {
+      "label": "keyboard focus stays in modal",
+      "pass": true
+    },
+    {
+      "label": "Escape closes modal and releases scroll",
+      "pass": true
+    },
+    {
+      "label": "normal animation finishes with visible composer",
+      "pass": true
+    },
+    {
+      "label": "live local preview serves styled page and logo",
+      "pass": true
+    },
+    {
+      "label": "live local preview interactions work",
+      "pass": true
+    }
+  ],
+  "runtimeErrors": []
+}

@@ -1,0 +1,94 @@
+[
+  {
+    "start_at": "2026-11-21T09:00:00+08:00",
+    "location": "清华x-lab（清华大学建华楼6层）",
+    "id": "candidate-docx-summary-0048-4",
+    "candidate_id": "candidate-docx-summary-0048-4",
+    "source": {
+      "title": "清华x-lab AI+创业实训营第4次课程",
+      "article_id": "docx-summary-0048",
+      "source_url": null,
+      "source_published_at": "2026-09-24",
+      "source_document": "信息层/天津大学宣怀学院-公众号文章汇总.docx",
+      "document_section": 48,
+      "source_type": "Word汇总转录"
+    },
+    "verified_fields": {
+      "start_at": "2026-11-21T09:00:00+08:00",
+      "location": "清华x-lab（清华大学建华楼6层）"
+    },
+    "not_verified": {
+      "end_at": {
+        "value": "2026-11-21T17:00:00+08:00",
+        "verification_status": "未经人工确认",
+        "present_in_candidate": true
+      },
+      "registration": {
+        "value": "扫码报名后简历筛选，宣怀学院拟统一大巴往返；二维码未包含在Word中",
+        "verification_status": "未经人工确认",
+        "present_in_candidate": true
+      },
+      "registration_deadline": {
+        "value": "2026-09-29T12:00:00+08:00",
+        "verification_status": "未经人工确认",
+        "present_in_candidate": true
+      }
+    },
+    "verification_status": "仅所列字段已人工核对",
+    "publishable": true,
+    "verified_by": "Charles",
+    "verified_at": "2026-11-15",
+    "note": "候选记录的报名截止为 2026-09-29，已过。这条只对已报名的同学有用，不应作为可报名活动推送。",
+    "method": "本人对照公众号原文后口头确认日期、时间、地点"
+  },
+  {
+    "start_at": "2026-11-28",
+    "id": "candidate-docx-summary-0003-1",
+    "candidate_id": "candidate-docx-summary-0003-1",
+    "source": {
+      "title": "第四届致新班第二批招生及面试",
+      "article_id": "docx-summary-0003",
+      "source_url": null,
+      "source_published_at": "2026-11-10",
+      "source_document": "信息层/天津大学宣怀学院-公众号文章汇总.docx",
+      "document_section": 3,
+      "source_type": "Word汇总转录"
+    },
+    "verified_fields": {
+      "start_at": "2026-11-28"
+    },
+    "not_verified": {
+      "面试具体时间": {
+        "value": null,
+        "verification_status": "未经人工确认",
+        "present_in_candidate": false
+      },
+      "location": {
+        "value": null,
+        "verification_status": "未经人工确认",
+        "present_in_candidate": true
+      },
+      "campus": {
+        "value": null,
+        "verification_status": "未经人工确认",
+        "present_in_candidate": true
+      },
+      "registration": {
+        "value": "线上报名→简历及申请材料初筛→面试；报名二维码未保留",
+        "verification_status": "未经人工确认",
+        "present_in_candidate": true
+      },
+      "registration_deadline": {
+        "value": "2026-11-25T10:00:00+08:00",
+        "verification_status": "未经人工确认",
+        "present_in_candidate": true
+      }
+    },
+    "verification_status": "仅所列字段已人工核对",
+    "publishable": true,
+    "verified_by": "Charles",
+    "verified_at": "2026-11-15",
+    "note": "以 11 月 10 日的新通知为准，9 月旧通知里的 12 月补充面试作废。候选记录的报名截止为 2026-11-25 10:00，未单独确认。",
+    "method": "本人对照公众号原文后口头确认日期"
+  }
+]

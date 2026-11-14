@@ -1,0 +1,286 @@
+{
+  "week_start": "2026-10-19",
+  "week_end": "2026-10-25",
+  "year_basis": "图片仅标月日；年份2026由用户明确指定。",
+  "source_image": "信息层/天津大学宣怀学院公众号资料库/文章/2026-10-19_宣怀课表｜十月的第三周，大家都在学什么？/images/002.png",
+  "transcription_note": "按原图行序转录，合并排版换行；模块合并单元格向下展开。null表示原图未标注，不表示无此安排；不确定另列uncertainties。英文空格、书名号与标点按可读形式整理，不改变词句。",
+  "verification_status": "AI读图转录，未经人工核对",
+  "publishable": false,
+  "row_count": 8,
+  "rows": [
+    {
+      "course_id": "stanford",
+      "module": "创新创业基础课程",
+      "direction": "创投必修",
+      "course_name": "《从“斯坦福+硅谷”到“天大+碳湾”》",
+      "speakers": [
+        {
+          "name": "刘毅",
+          "titles": [
+            "九安医疗董事长",
+            "天津大学宣怀学院院长"
+          ]
+        }
+      ],
+      "teaching_info_raw": "刘毅\n九安医疗董事长\n天津大学宣怀学院院长",
+      "weekdays": [
+        "周三"
+      ],
+      "start_time": "18:30",
+      "end_time": "21:45",
+      "campus": "北洋园校区",
+      "classroom": "45楼B110",
+      "location_note": null,
+      "if_you_are": "需要对“技术+创业”双轨认知负责，但缺乏懂技术又懂生态的系统学习",
+      "uncertainties": [],
+      "not_stated": [],
+      "row_number": 1,
+      "week_start": "2026-10-19",
+      "week_end": "2026-10-25",
+      "source_image": "信息层/天津大学宣怀学院公众号资料库/文章/2026-10-19_宣怀课表｜十月的第三周，大家都在学什么？/images/002.png",
+      "verification_status": "AI读图转录，未经人工核对",
+      "publishable": false,
+      "schedule_raw": "周三：18:30-21:45\n北洋园校区\n45楼B110"
+    },
+    {
+      "course_id": "team",
+      "module": "创新创业通识课程",
+      "direction": "团队必修",
+      "course_name": "《以人为本：创业团队的人才引擎构建》",
+      "speakers": [
+        {
+          "name": "高煜东",
+          "titles": [
+            "曾任智联招聘集团人力资源总监、智联学院学习与发展总监"
+          ]
+        }
+      ],
+      "teaching_info_raw": "高煜东\n曾任智联招聘集团人力资源总监、智联学院学习与发展总监",
+      "weekdays": [
+        "周一"
+      ],
+      "start_time": "13:30",
+      "end_time": "17:00",
+      "campus": "北洋园校区",
+      "classroom": "三问园宣怀学院208",
+      "location_note": null,
+      "if_you_are": "带创业团队或学生社团，常被\"管人难、做事卡壳、团队松散\"卡住，但缺乏破局打法",
+      "uncertainties": [],
+      "not_stated": [],
+      "row_number": 2,
+      "week_start": "2026-10-19",
+      "week_end": "2026-10-25",
+      "source_image": "信息层/天津大学宣怀学院公众号资料库/文章/2026-10-19_宣怀课表｜十月的第三周，大家都在学什么？/images/002.png",
+      "verification_status": "AI读图转录，未经人工核对",
+      "publishable": false,
+      "schedule_raw": "周一：13:30-17:00\n北洋园校区\n三问园宣怀学院208"
+    },
+    {
+      "course_id": "leadership",
+      "module": "创新创业通识课程",
+      "direction": "管理必修",
+      "course_name": "《科创领导力》",
+      "speakers": [
+        {
+          "name": "孙卫军",
+          "titles": [
+            "宣怀学院产业教授",
+            "宣怀学院副院长",
+            "创业知本社联合创始人兼CEO"
+          ]
+        }
+      ],
+      "teaching_info_raw": "孙卫军\n宣怀学院产业教授\n宣怀学院副院长\n创业知本社联合创始人兼CEO",
+      "weekdays": [
+        "周二"
+      ],
+      "start_time": "18:30",
+      "end_time": "21:45",
+      "campus": "卫津路校区",
+      "classroom": "25教C416",
+      "location_note": null,
+      "if_you_are": "需要从执行者跃迁为领导者但缺乏高质量带队底层方法",
+      "uncertainties": [],
+      "not_stated": [],
+      "row_number": 3,
+      "week_start": "2026-10-19",
+      "week_end": "2026-10-25",
+      "source_image": "信息层/天津大学宣怀学院公众号资料库/文章/2026-10-19_宣怀课表｜十月的第三周，大家都在学什么？/images/002.png",
+      "verification_status": "AI读图转录，未经人工核对",
+      "publishable": false,
+      "schedule_raw": "周二：18:30-21:45\n卫津路校区\n25教C416"
+    },
+    {
+      "course_id": "design",
+      "module": "创新创业通识课程",
+      "direction": "审美必修",
+      "course_name": "《玩转设计与文创:提升你的审美力》",
+      "speakers": [
+        {
+          "name": "花明泊",
+          "titles": [
+            "九安医疗首席视觉设计师"
+          ]
+        }
+      ],
+      "teaching_info_raw": "花明泊\n九安医疗首席视觉设计师",
+      "weekdays": [
+        "周四"
+      ],
+      "start_time": "15:25",
+      "end_time": "17:00",
+      "campus": "北洋园校区",
+      "classroom": "三问园宣怀学院208",
+      "location_note": null,
+      "if_you_are": "渴望用传统美学讲故事，却缺结构化的创意表达路径",
+      "uncertainties": [],
+      "not_stated": [],
+      "row_number": 4,
+      "week_start": "2026-10-19",
+      "week_end": "2026-10-25",
+      "source_image": "信息层/天津大学宣怀学院公众号资料库/文章/2026-10-19_宣怀课表｜十月的第三周，大家都在学什么？/images/002.png",
+      "verification_status": "AI读图转录，未经人工核对",
+      "publishable": false,
+      "schedule_raw": "周四：15:25-17:00\n北洋园校区\n三问园宣怀学院208"
+    },
+    {
+      "course_id": "growth",
+      "module": "创新创业通识课程",
+      "direction": "增长必修",
+      "course_name": "《创新企业营销战略与实战》",
+      "speakers": [
+        {
+          "name": "崔宇杰",
+          "titles": [
+            "宣怀学院产业教授",
+            "智深创投/三合资本创始管理合伙人"
+          ]
+        }
+      ],
+      "teaching_info_raw": "崔宇杰\n宣怀学院产业教授\n智深创投/三合资本创始管理合伙人",
+      "weekdays": [
+        "周四"
+      ],
+      "start_time": "18:30",
+      "end_time": "21:45",
+      "campus": "北洋园校区",
+      "classroom": "三问园宣怀学院208",
+      "location_note": null,
+      "if_you_are": "想把产品卖给企业客户、签下第一个大单，却不懂To B的销售漏斗、摸不准大客户的决策链。",
+      "uncertainties": [],
+      "not_stated": [],
+      "row_number": 5,
+      "week_start": "2026-10-19",
+      "week_end": "2026-10-25",
+      "source_image": "信息层/天津大学宣怀学院公众号资料库/文章/2026-10-19_宣怀课表｜十月的第三周，大家都在学什么？/images/002.png",
+      "verification_status": "AI读图转录，未经人工核对",
+      "publishable": false,
+      "schedule_raw": "周四：18:30-21:45\n北洋园校区\n三问园宣怀学院208"
+    },
+    {
+      "course_id": "innovation",
+      "module": "创新创业通识课程",
+      "direction": "创新必修",
+      "course_name": "《技术创新与产品研发管理实践》",
+      "speakers": [
+        {
+          "name": "曾学明",
+          "titles": [
+            "宣怀学院产业教授",
+            "华成研发咨询",
+            "华成创投创始人"
+          ]
+        }
+      ],
+      "teaching_info_raw": "曾学明\n宣怀学院产业教授\n华成研发咨询\n华成创投创始人",
+      "weekdays": [
+        "周六"
+      ],
+      "start_time": "13:30",
+      "end_time": "17:00",
+      "campus": "卫津路校区",
+      "classroom": "25教C416",
+      "location_note": null,
+      "if_you_are": "想在硬科技赛道做出真正有竞争力的产品，却缺一套从技术创新到研发落地的系统方法、跨不过\"卡脖子\"的关键关卡。",
+      "uncertainties": [],
+      "not_stated": [],
+      "row_number": 6,
+      "week_start": "2026-10-19",
+      "week_end": "2026-10-25",
+      "source_image": "信息层/天津大学宣怀学院公众号资料库/文章/2026-10-19_宣怀课表｜十月的第三周，大家都在学什么？/images/002.png",
+      "verification_status": "AI读图转录，未经人工核对",
+      "publishable": false,
+      "schedule_raw": "周六：13:30-17:00\n卫津路校区\n25教C416"
+    },
+    {
+      "course_id": "workflow",
+      "module": "创新创业实战课程",
+      "direction": "AI工作流必修",
+      "course_name": "《AI-driven工作流创新实践课》",
+      "speakers": [
+        {
+          "name": "丛明",
+          "titles": [
+            "九安医疗副总经理"
+          ]
+        }
+      ],
+      "teaching_info_raw": "丛明\n九安医疗副总经理\n九安医疗技术团队及业务团队全程参与课程辅导",
+      "weekdays": [
+        "周四"
+      ],
+      "start_time": "13:30",
+      "end_time": "17:00",
+      "campus": "卫津路校区",
+      "classroom": "25教C416",
+      "location_note": null,
+      "if_you_are": "想用 AI 改造工作流，却只停留在工具使用层面，缺一次完整的项目实战闭环",
+      "uncertainties": [],
+      "not_stated": [],
+      "row_number": 7,
+      "week_start": "2026-10-19",
+      "week_end": "2026-10-25",
+      "source_image": "信息层/天津大学宣怀学院公众号资料库/文章/2026-10-19_宣怀课表｜十月的第三周，大家都在学什么？/images/002.png",
+      "verification_status": "AI读图转录，未经人工核对",
+      "publishable": false,
+      "schedule_raw": "周四：13:30-17:00\n卫津路校区\n25教C416"
+    },
+    {
+      "course_id": "practice",
+      "module": "创新创业实战课程",
+      "direction": "实战必修",
+      "course_name": "《创业实战训练课》",
+      "speakers": [
+        {
+          "name": "杨晓峰",
+          "titles": [
+            "宣怀学院副院长",
+            "漫维集团董事长"
+          ]
+        }
+      ],
+      "teaching_info_raw": "杨晓峰\n宣怀学院副院长\n漫维集团董事长",
+      "weekdays": [
+        "周五"
+      ],
+      "start_time": "13:30",
+      "end_time": "17:00",
+      "campus": null,
+      "classroom": null,
+      "location_note": "赴企业上课",
+      "if_you_are": "需要对真实创业环境理解负责，但缺体系化的浸入式现场学习方法",
+      "uncertainties": [],
+      "not_stated": [
+        "campus",
+        "classroom"
+      ],
+      "row_number": 8,
+      "week_start": "2026-10-19",
+      "week_end": "2026-10-25",
+      "source_image": "信息层/天津大学宣怀学院公众号资料库/文章/2026-10-19_宣怀课表｜十月的第三周，大家都在学什么？/images/002.png",
+      "verification_status": "AI读图转录，未经人工核对",
+      "publishable": false,
+      "schedule_raw": "周五：13:30-17:00\n赴企业上课"
+    }
+  ]
+}

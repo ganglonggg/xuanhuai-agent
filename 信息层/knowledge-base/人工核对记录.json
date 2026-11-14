@@ -1,0 +1,32 @@
+{
+  "说明": "人工核对结果单独记在这里。构建会读取 records，将 verdict 为对的候选按 verified_fields 发布到 data/published-facts.json；not_verified 保留候选原值并逐项标注未经人工确认。不要直接修改 data/ 构建产物；候选ID不存在时构建报错。",
+  "records": [
+    {
+      "candidate_id": "candidate-docx-summary-0048-4",
+      "title": "清华x-lab AI+创业实训营第4次课程",
+      "verdict": "对",
+      "verified_fields": {
+        "start_at": "2026-11-21T09:00:00+08:00",
+        "location": "清华x-lab（清华大学建华楼6层）"
+      },
+      "not_verified": ["end_at", "registration", "registration_deadline"],
+      "verified_by": "Charles",
+      "verified_at": "2026-11-15",
+      "method": "本人对照公众号原文后口头确认日期、时间、地点",
+      "note": "候选记录的报名截止为 2026-09-29，已过。这条只对已报名的同学有用，不应作为可报名活动推送。"
+    },
+    {
+      "candidate_id": "candidate-docx-summary-0003-1",
+      "title": "第四届致新班第二批招生及面试",
+      "verdict": "对",
+      "verified_fields": {
+        "start_at": "2026-11-28"
+      },
+      "not_verified": ["面试具体时间", "location", "campus", "registration", "registration_deadline"],
+      "verified_by": "Charles",
+      "verified_at": "2026-11-15",
+      "method": "本人对照公众号原文后口头确认日期",
+      "note": "以 11 月 10 日的新通知为准，9 月旧通知里的 12 月补充面试作废。候选记录的报名截止为 2026-11-25 10:00，未单独确认。"
+    }
+  ]
+}

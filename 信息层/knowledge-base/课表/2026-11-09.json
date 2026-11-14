@@ -1,0 +1,451 @@
+{
+  "week_start": "2026-11-09",
+  "week_end": "2026-11-15",
+  "year_basis": "图片仅标月日；年份2026由用户明确指定。",
+  "source_image": "信息层/天津大学宣怀学院公众号资料库/文章/2026-11-09_宣怀课表丨造过火箭的人来讲投资，这门课千万不要错过/images/002.png",
+  "transcription_note": "按原图行序转录，合并排版换行；模块合并单元格向下展开。null表示原图未标注，不表示无此安排；不确定另列uncertainties。英文空格、书名号与标点按可读形式整理，不改变词句。",
+  "verification_status": "AI读图转录，未经人工核对",
+  "publishable": false,
+  "row_count": 13,
+  "rows": [
+    {
+      "course_id": "lecture",
+      "module": "创新创业基础课程",
+      "direction": "创业必修",
+      "course_name": "创业大讲堂（《创业认知基础》）",
+      "speakers": [
+        {
+          "name": "邓钊",
+          "titles": [
+            "陆石投资创始合伙人",
+            "董事长"
+          ]
+        }
+      ],
+      "teaching_info_raw": "邓钊\n陆石投资创始合伙人\n董事长",
+      "weekdays": [
+        "周四"
+      ],
+      "start_time": "18:30",
+      "end_time": "21:45",
+      "campus": "卫津路校区",
+      "classroom": "26教B203",
+      "location_note": null,
+      "if_you_are": "愿意听一个从\"造火箭的人变成“投火箭的人”的故事",
+      "uncertainties": [],
+      "not_stated": [],
+      "row_number": 1,
+      "week_start": "2026-11-09",
+      "week_end": "2026-11-15",
+      "source_image": "信息层/天津大学宣怀学院公众号资料库/文章/2026-11-09_宣怀课表丨造过火箭的人来讲投资，这门课千万不要错过/images/002.png",
+      "verification_status": "AI读图转录，未经人工核对",
+      "publishable": false,
+      "schedule_raw": "周四：18:30-21:45\n卫津路校区\n26教B203"
+    },
+    {
+      "course_id": "flipped",
+      "module": "创新创业通识课程",
+      "direction": "认知补全",
+      "course_name": "《创业成功之路(翻转)》",
+      "speakers": [
+        {
+          "name": "Jacques Biot",
+          "titles": [
+            "华为法国公司董事长",
+            "巴黎综合理工学院前校长"
+          ]
+        }
+      ],
+      "teaching_info_raw": "Jacques Biot\n华为法国公司董事长\n巴黎综合理工学院前校长",
+      "weekdays": [
+        "周一",
+        "周三"
+      ],
+      "start_time": "13:30",
+      "end_time": "17:00",
+      "campus": "北洋园校区",
+      "classroom": "三问园宣怀学院204",
+      "location_note": null,
+      "if_you_are": "需要了解在战略和运营方面应关注的各种要点，包括商业模式的定义、知识产权的保护、概念验证的实现、融资途径等",
+      "uncertainties": [],
+      "not_stated": [],
+      "row_number": 2,
+      "week_start": "2026-11-09",
+      "week_end": "2026-11-15",
+      "source_image": "信息层/天津大学宣怀学院公众号资料库/文章/2026-11-09_宣怀课表丨造过火箭的人来讲投资，这门课千万不要错过/images/002.png",
+      "verification_status": "AI读图转录，未经人工核对",
+      "publishable": false,
+      "schedule_raw": "周一：13:30-17:00\n周三：13:30-17:00\n北洋园校区\n三问园宣怀学院204"
+    },
+    {
+      "course_id": "team",
+      "module": "创新创业通识课程",
+      "direction": "团队必修",
+      "course_name": "《以人为本：创业团队的人才引擎构建》",
+      "speakers": [
+        {
+          "name": "高煜东",
+          "titles": [
+            "曾任智联招聘集团人力资源总监、智联学院学习与发展总监"
+          ]
+        }
+      ],
+      "teaching_info_raw": "高煜东\n曾任智联招聘集团人力资源总监、智联学院学习与发展总监",
+      "weekdays": [
+        "周一"
+      ],
+      "start_time": "13:30",
+      "end_time": "17:00",
+      "campus": "北洋园校区",
+      "classroom": "三问园宣怀学院208",
+      "location_note": null,
+      "if_you_are": "带创业团队或学生社团，常被\"管人难、做事卡壳、团队松散\"卡住，但缺乏破局打法",
+      "uncertainties": [],
+      "not_stated": [],
+      "row_number": 3,
+      "week_start": "2026-11-09",
+      "week_end": "2026-11-15",
+      "source_image": "信息层/天津大学宣怀学院公众号资料库/文章/2026-11-09_宣怀课表丨造过火箭的人来讲投资，这门课千万不要错过/images/002.png",
+      "verification_status": "AI读图转录，未经人工核对",
+      "publishable": false,
+      "schedule_raw": "周一：13:30-17:00\n北洋园校区\n三问园宣怀学院208"
+    },
+    {
+      "course_id": "customer",
+      "module": "创新创业通识课程",
+      "direction": "商业必修",
+      "course_name": "《寻找第一个客户》",
+      "speakers": [
+        {
+          "name": "马浩",
+          "titles": [
+            "宣怀学院产业教授、尚势资本合伙人、北洋海棠基金投资人"
+          ]
+        }
+      ],
+      "teaching_info_raw": "马浩\n宣怀学院产业教授、尚势资本合伙人、北洋海棠基金投资人",
+      "weekdays": [
+        "周一"
+      ],
+      "start_time": "18:30",
+      "end_time": "21:45",
+      "campus": "北洋园校区",
+      "classroom": "三问园宣怀学院208",
+      "location_note": null,
+      "if_you_are": "需要打通\"客户→产品→成交→回款\"全链路，但缺真实案例的拆解与实战演练",
+      "uncertainties": [],
+      "not_stated": [],
+      "row_number": 4,
+      "week_start": "2026-11-09",
+      "week_end": "2026-11-15",
+      "source_image": "信息层/天津大学宣怀学院公众号资料库/文章/2026-11-09_宣怀课表丨造过火箭的人来讲投资，这门课千万不要错过/images/002.png",
+      "verification_status": "AI读图转录，未经人工核对",
+      "publishable": false,
+      "schedule_raw": "周一：18:30-21:45\n北洋园校区\n三问园宣怀学院208"
+    },
+    {
+      "course_id": "capital",
+      "module": "创新创业通识课程",
+      "direction": "硬科技必修",
+      "course_name": "《硬科技企业资本力提升之路》",
+      "speakers": [
+        {
+          "name": "何勇军",
+          "titles": [
+            "北洋海棠基金发起合伙人、联席CEO及天津大学科技园总经理"
+          ]
+        }
+      ],
+      "teaching_info_raw": "何勇军\n北洋海棠基金发起合伙人、联席CEO及天津大学科技园总经理",
+      "weekdays": [
+        "周一"
+      ],
+      "start_time": "18:30",
+      "end_time": "21:45",
+      "campus": "北洋园校区",
+      "classroom": "三问园宣怀学院204",
+      "location_note": null,
+      "if_you_are": "想在硬科技赛道创业，却看不懂各阶段投资逻辑、接不住资本与产业资源",
+      "uncertainties": [],
+      "not_stated": [],
+      "row_number": 5,
+      "week_start": "2026-11-09",
+      "week_end": "2026-11-15",
+      "source_image": "信息层/天津大学宣怀学院公众号资料库/文章/2026-11-09_宣怀课表丨造过火箭的人来讲投资，这门课千万不要错过/images/002.png",
+      "verification_status": "AI读图转录，未经人工核对",
+      "publishable": false,
+      "schedule_raw": "周一：18:30-21:45\n北洋园校区\n三问园宣怀学院204"
+    },
+    {
+      "course_id": "progress",
+      "module": "创新创业通识课程",
+      "direction": "进阶必修",
+      "course_name": "《在玩耍中学习:创业者的进阶修炼》",
+      "speakers": [
+        {
+          "name": "周美言",
+          "titles": [
+            "心理学专家资深培训师、4D领导力认证讲师、富兰克林柯维公司授权讲师"
+          ]
+        }
+      ],
+      "teaching_info_raw": "周美言\n心理学专家资深培训师、4D领导力认证讲师、富兰克林柯维公司授权讲师",
+      "weekdays": [
+        "周二"
+      ],
+      "start_time": "13:30",
+      "end_time": "17:00",
+      "campus": "北洋园校区",
+      "classroom": "三问园宣怀学院208",
+      "location_note": null,
+      "if_you_are": "想在大学生涯里玩出真本事，却缺一张从\"自我认知\"到\"商业模式\"的进阶导航图",
+      "uncertainties": [],
+      "not_stated": [],
+      "row_number": 6,
+      "week_start": "2026-11-09",
+      "week_end": "2026-11-15",
+      "source_image": "信息层/天津大学宣怀学院公众号资料库/文章/2026-11-09_宣怀课表丨造过火箭的人来讲投资，这门课千万不要错过/images/002.png",
+      "verification_status": "AI读图转录，未经人工核对",
+      "publishable": false,
+      "schedule_raw": "周二：13:30-17:00\n北洋园校区\n三问园宣怀学院208"
+    },
+    {
+      "course_id": "leadership",
+      "module": "创新创业通识课程",
+      "direction": "管理必修",
+      "course_name": "《科创领导力》",
+      "speakers": [
+        {
+          "name": "孙卫军",
+          "titles": [
+            "宣怀学院产业教授",
+            "宣怀学院副院长",
+            "创业知本社联合创始人兼CEO"
+          ]
+        }
+      ],
+      "teaching_info_raw": "孙卫军\n宣怀学院产业教授\n宣怀学院副院长\n创业知本社联合创始人兼CEO",
+      "weekdays": [
+        "周二"
+      ],
+      "start_time": "18:30",
+      "end_time": "21:45",
+      "campus": "卫津路校区",
+      "classroom": "25教C416",
+      "location_note": null,
+      "if_you_are": "需要从执行者跃迁为领导者但缺乏高质量带队底层方法",
+      "uncertainties": [],
+      "not_stated": [],
+      "row_number": 7,
+      "week_start": "2026-11-09",
+      "week_end": "2026-11-15",
+      "source_image": "信息层/天津大学宣怀学院公众号资料库/文章/2026-11-09_宣怀课表丨造过火箭的人来讲投资，这门课千万不要错过/images/002.png",
+      "verification_status": "AI读图转录，未经人工核对",
+      "publishable": false,
+      "schedule_raw": "周二：18:30-21:45\n卫津路校区\n25教C416"
+    },
+    {
+      "course_id": "strategy",
+      "module": "创新创业通识课程",
+      "direction": "战略必修",
+      "course_name": "《御风而行：科创CEO的资本之道》",
+      "speakers": [
+        {
+          "name": "邓力文",
+          "titles": [
+            "北京鲁般科创咨询有限公司创始合伙人"
+          ]
+        }
+      ],
+      "teaching_info_raw": "邓力文\n北京鲁般科创咨询有限公司创始合伙人",
+      "weekdays": [
+        "周四"
+      ],
+      "start_time": "18:30",
+      "end_time": "21:45",
+      "campus": "北洋园校区",
+      "classroom": "三问园宣怀学院208",
+      "location_note": null,
+      "if_you_are": "需要在复杂局面下做高质量决策，但缺乏政治、经济、历史多维视角的训练",
+      "uncertainties": [],
+      "not_stated": [],
+      "row_number": 8,
+      "week_start": "2026-11-09",
+      "week_end": "2026-11-15",
+      "source_image": "信息层/天津大学宣怀学院公众号资料库/文章/2026-11-09_宣怀课表丨造过火箭的人来讲投资，这门课千万不要错过/images/002.png",
+      "verification_status": "AI读图转录，未经人工核对",
+      "publishable": false,
+      "schedule_raw": "周四：18:30-21:45\n北洋园校区\n三问园宣怀学院208"
+    },
+    {
+      "course_id": "design",
+      "module": "创新创业通识课程",
+      "direction": "审美必修",
+      "course_name": "《玩转设计与文创:提升你的审美力》",
+      "speakers": [
+        {
+          "name": "花明泊",
+          "titles": [
+            "九安医疗首席视觉设计师"
+          ]
+        }
+      ],
+      "teaching_info_raw": "花明泊\n九安医疗首席视觉设计师",
+      "weekdays": [
+        "周四"
+      ],
+      "start_time": "15:25",
+      "end_time": "17:00",
+      "campus": "北洋园校区",
+      "classroom": "三问园宣怀学院208",
+      "location_note": null,
+      "if_you_are": "渴望用传统美学讲故事，却缺结构化的创意表达路径",
+      "uncertainties": [],
+      "not_stated": [],
+      "row_number": 9,
+      "week_start": "2026-11-09",
+      "week_end": "2026-11-15",
+      "source_image": "信息层/天津大学宣怀学院公众号资料库/文章/2026-11-09_宣怀课表丨造过火箭的人来讲投资，这门课千万不要错过/images/002.png",
+      "verification_status": "AI读图转录，未经人工核对",
+      "publishable": false,
+      "schedule_raw": "周四：15:25-17:00\n北洋园校区\n三问园宣怀学院208"
+    },
+    {
+      "course_id": "innovation",
+      "module": "不确定",
+      "direction": "创新必修",
+      "course_name": "《技术创新与产品研发管理实践》",
+      "speakers": [
+        {
+          "name": "曾学明",
+          "titles": [
+            "宣怀学院产业教授",
+            "华成研发咨询",
+            "华成创投创始人"
+          ]
+        }
+      ],
+      "teaching_info_raw": "曾学明\n宣怀学院产业教授\n华成研发咨询\n华成创投创始人",
+      "weekdays": [
+        "周六"
+      ],
+      "start_time": "09:00",
+      "end_time": "17:00",
+      "campus": "卫津路校区",
+      "classroom": "25教C416",
+      "location_note": null,
+      "if_you_are": "想在硬科技赛道做出真正有竞争力的产品，却缺一套从技术创新到研发落地的系统方法、跨不过\"卡脖子\"的关卡",
+      "uncertainties": [
+        {
+          "field": "module",
+          "value": "不确定",
+          "reason": "原图该行模块单元格为空白，且与上方通识模块之间有横线；不据前期擅自补填。"
+        }
+      ],
+      "not_stated": [],
+      "row_number": 10,
+      "week_start": "2026-11-09",
+      "week_end": "2026-11-15",
+      "source_image": "信息层/天津大学宣怀学院公众号资料库/文章/2026-11-09_宣怀课表丨造过火箭的人来讲投资，这门课千万不要错过/images/002.png",
+      "verification_status": "AI读图转录，未经人工核对",
+      "publishable": false,
+      "schedule_raw": "周六：9:00-17:00\n卫津路校区\n25教C416"
+    },
+    {
+      "course_id": "opc",
+      "module": "创新创业实战课程",
+      "direction": "AI创业必修",
+      "course_name": "《AI驱动的一人公司（OPC）创业 实践 》",
+      "speakers": [
+        {
+          "name": "李桥",
+          "titles": [
+            "爱和未来创始人"
+          ]
+        }
+      ],
+      "teaching_info_raw": "李桥\n爱和未来创始人",
+      "weekdays": [
+        "周二"
+      ],
+      "start_time": "18:30",
+      "end_time": "21:45",
+      "campus": "北洋园校区",
+      "classroom": "三问园宣怀学院208",
+      "location_note": null,
+      "if_you_are": "想成为 AI 原生产品创业者，却缺乏从 Agent 架构到 MVP 开发的完整实战",
+      "uncertainties": [],
+      "not_stated": [],
+      "row_number": 11,
+      "week_start": "2026-11-09",
+      "week_end": "2026-11-15",
+      "source_image": "信息层/天津大学宣怀学院公众号资料库/文章/2026-11-09_宣怀课表丨造过火箭的人来讲投资，这门课千万不要错过/images/002.png",
+      "verification_status": "AI读图转录，未经人工核对",
+      "publishable": false,
+      "schedule_raw": "周二：18:30-21:45\n北洋园校区\n三问园宣怀学院208"
+    },
+    {
+      "course_id": "workflow",
+      "module": "创新创业实战课程",
+      "direction": "AI工作流必修",
+      "course_name": "《AI-driven工作流创新实践课》",
+      "speakers": [
+        {
+          "name": "丛明",
+          "titles": [
+            "九安医疗副总经理"
+          ]
+        }
+      ],
+      "teaching_info_raw": "丛明\n九安医疗副总经理\n九安医疗技术团队及业务团队全程参与课程辅导",
+      "weekdays": [
+        "周四"
+      ],
+      "start_time": "13:30",
+      "end_time": "17:00",
+      "campus": "卫津路校区",
+      "classroom": "25教C416",
+      "location_note": null,
+      "if_you_are": "想用 AI 改造工作流，却只停留在工具使用层面，缺一次完整的项目实战闭环",
+      "uncertainties": [],
+      "not_stated": [],
+      "row_number": 12,
+      "week_start": "2026-11-09",
+      "week_end": "2026-11-15",
+      "source_image": "信息层/天津大学宣怀学院公众号资料库/文章/2026-11-09_宣怀课表丨造过火箭的人来讲投资，这门课千万不要错过/images/002.png",
+      "verification_status": "AI读图转录，未经人工核对",
+      "publishable": false,
+      "schedule_raw": "周四：13:30-17:00\n卫津路校区\n25教C416"
+    },
+    {
+      "course_id": "project",
+      "module": "创新创业实战课程",
+      "direction": "项目必修",
+      "course_name": "《AI×产业：产品研发创新 实践课》",
+      "speakers": [],
+      "teaching_info_raw": "阿童木机器人\n百葵锐生物\n布尔科技\n天友设计",
+      "weekdays": [
+        "周五"
+      ],
+      "start_time": "13:30",
+      "end_time": "17:00",
+      "campus": null,
+      "classroom": null,
+      "location_note": "布尔科技",
+      "if_you_are": "想亲手把一个想法做成产品，却缺真实项目练手、更缺企业家在路演里给你当面纠偏。",
+      "uncertainties": [],
+      "not_stated": [
+        "campus",
+        "classroom",
+        "个人主讲人及头衔"
+      ],
+      "row_number": 13,
+      "week_start": "2026-11-09",
+      "week_end": "2026-11-15",
+      "source_image": "信息层/天津大学宣怀学院公众号资料库/文章/2026-11-09_宣怀课表丨造过火箭的人来讲投资，这门课千万不要错过/images/002.png",
+      "verification_status": "AI读图转录，未经人工核对",
+      "publishable": false,
+      "schedule_raw": "周五：13:30-17:00\n布尔科技"
+    }
+  ]
+}

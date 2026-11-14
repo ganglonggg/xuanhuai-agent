@@ -1,0 +1,9 @@
+data.json
+personal.json
+.local-admin
+backups/
+*.tmp
+.env
+accounts.json
+cooperation.json
+validation-data/

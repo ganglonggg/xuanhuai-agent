@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#fffcf6">
+  <meta name="description" content="宣怀 Agent · 绯金绢光交互原型。让一个想法，遇见愿意同行的人。">
+  <title>宣怀 Agent · 让下一步发生</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">跳到主要内容</a>
+  <div class="reading-progress" aria-hidden="true"><i></i></div>
+  <header class="site-header">
+    <a href="#home" class="brand" aria-label="宣怀学院个人 Agent 首页">
+      <img src="assets/xuanhuai-original.png" alt="宣怀学院 XUANHUAI SCHOOL" width="1666" height="478">
+      <span>个人 <em>Agent</em></span>
+    </a>
+    <nav class="main-nav" aria-label="页面章节">
+      <a href="#home" class="active">我的 Agent</a>
+      <a href="#discover">今日整理</a>
+      <a href="#week">本周课程</a>
+      <a href="#connect">合作灵感</a>
+      <i class="nav-indicator" aria-hidden="true"></i>
+    </nav>
+    <div class="header-actions">
+      <button class="demo-badge" data-action="about">交互演示<span></span></button>
+      <div class="me-wrap">
+        <button class="me-button" id="me-button" aria-label="我：个人空间" aria-expanded="false" aria-controls="me-menu"><span data-icon="user"></span><span>我</span><i class="notification-dot"></i></button>
+        <div class="me-menu" id="me-menu" hidden>
+          <div class="menu-intro"><span class="avatar">我</span><div><strong>我的空间</strong><small>你的想法，由你决定。</small></div></div>
+          <button data-action="profile"><span data-icon="user"></span>我的画像<span class="menu-note" id="profile-note">待认识</span></button>
+          <button data-action="saved"><span data-icon="bookmark"></span>我的关注<span class="menu-note" id="saved-count">0</span></button>
+          <button data-action="notifications"><span data-icon="bell"></span>动态与提醒<span class="menu-note">2</span></button>
+          <div class="menu-rule"></div>
+          <button data-action="account"><span data-icon="id"></span>账号信息</button>
+          <button data-action="settings"><span data-icon="sliders"></span>偏好设置</button>
+        </div>
+      </div>
+    </div>
+  </header>
+  <main id="main">
+    <section class="hero chapter" id="home" aria-labelledby="hero-title">
+      <div class="silk-scene" aria-hidden="true">
+        <div class="satin-light"></div>
+        <svg class="satin-ribbons" viewBox="0 0 1440 900" preserveAspectRatio="none">
+          <defs>
+            <linearGradient id="champagne" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f9e8c7"/><stop offset=".28" stop-color="#d5b078" stop-opacity=".6"/><stop offset=".48" stop-color="#fffdf6"/><stop offset=".66" stop-color="#e4c28f" stop-opacity=".4"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+            <linearGradient id="carmine" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#b14a43" stop-opacity="0"/><stop offset=".35" stop-color="#923346" stop-opacity=".25"/><stop offset=".72" stop-color="#ac4851" stop-opacity=".5"/><stop offset="1" stop-color="#7e2437" stop-opacity=".75"/></linearGradient>
+            <filter id="silk-blur"><feGaussianBlur stdDeviation="8"/></filter>
+          </defs>
+          <path d="M-110 280C157 27 472 140 604-65L873-30C562 221 202 129 40 469Z" fill="url(#champagne)" filter="url(#silk-blur)"/>
+          <path d="M1021 995C1151 674 1403 698 1517 303L1634 543C1479 831 1314 800 1254 966Z" fill="url(#carmine)" filter="url(#silk-blur)"/>
+          <path d="M-52 381C182 126 413 178 683 30" stroke="#fff" stroke-width="3" fill="none" opacity=".7"/>
+          <path d="M1113 898C1239 699 1382 653 1487 438" stroke="#f5e4ce" stroke-width="2" fill="none" opacity=".6"/>
+        </svg>
+        <div class="satin-grain"></div>
+        <span class="silk-inscription">A little light.<br><i>A new beginning.</i></span>
+      </div>
+      <div class="hero-center">
+        <p class="hero-kicker intro-in">让一个想法，遇见愿意同行的人。</p>
+        <h1 id="hero-title" class="intro-in">把想法聊出来，<br><em>让下一步发生。</em></h1>
+        <div class="agent-label intro-in"><span>YOUR PERSONAL AGENT</span><span><span data-icon="lock"></span>仅自己可见</span></div>
+        <div class="composer-frame intro-in">
+          <form class="composer" id="hero-form">
+            <div class="composer-greeting"><span class="agent-spark" data-icon="spark"></span><span id="hero-greeting">我在这里，帮你把散落的可能整理好。</span><span class="agent-presence"><i></i>在这里</span></div>
+            <label class="sr-only" for="hero-input">聊聊你自己，或查找公开信息</label>
+            <textarea id="hero-input" rows="2" maxlength="500" placeholder="聊聊你自己，或找找今天的机会…"></textarea>
+            <div class="composer-bottom"><span class="composer-hint">从一句话开始就好。<kbd>Enter ↵</kbd></span><button class="primary" type="submit">开始聊聊<span data-icon="arrow"></span></button></div>
+          </form>
+        </div>
+        <div class="quick-actions intro-in"><button data-action="interview"><span>01</span>先认识我<i data-icon="arrow"></i></button><a href="#discover"><span>02</span>今日整理<i data-icon="arrow"></i></a><a href="#week"><span>03</span>本周课程<i data-icon="arrow"></i></a></div>
+        <p class="hero-privacy intro-in">画像由你确认 <i>·</i> 连接先征得同意</p>
+      </div>
+      <div class="hero-footer"><span>绯金绢光 <i>/</i> XUANHUAI AGENT</span><a href="#discover" class="scroll-cue"><span>向下，发现与你有关的可能</span><span class="scroll-capsule"><i></i></span></a><span class="footer-edition">一份为你展开的日常</span></div>
+    </section>
+
+    <section class="discovery chapter" id="discover" aria-labelledby="discover-title">
+      <div class="section-shell">
+        <div class="section-heading reveal"><div><p class="eyebrow"><span>01</span> YOUR DAILY EDIT</p><h2 id="discover-title">值得留意的，<em>刚好与你有关。</em></h2><p class="section-caption" id="feed-caption">先从公开的可能开始。认识你之后，再一起缩小范围。</p></div><div class="edition-stamp"><strong>16</strong><span>NOV. 2026<br>本期示例整理</span></div></div>
+        <div class="feed-toolbar reveal">
+          <div class="filter-tabs" role="group" aria-label="信息类型"><button class="selected" data-filter="all" aria-pressed="true">全部<span>6</span></button><button data-filter="活动" aria-pressed="false">活动</button><button data-filter="课程" aria-pressed="false">课程</button><button data-filter="项目" aria-pressed="false">项目</button><button data-filter="saved" aria-pressed="false">已关注<i class="saved-tiny-count">0</i></button></div>
+          <div class="feed-controls"><label class="search-box"><span data-icon="search"></span><input id="feed-search" type="search" placeholder="搜索一个方向" aria-label="搜索公开信息"></label><label class="campus-select"><span class="sr-only">校区筛选</span><select id="campus-filter"><option value="all">所有校区</option><option>北洋园</option><option>卫津路</option><option>线上</option></select><span data-icon="chevron"></span></label></div>
+        </div>
+        <div class="feed-result-line" aria-live="polite"><span id="result-count">6 条公开信息</span><span>示例数据 · 时间均为北京时间</span></div>
+        <div class="information-grid" id="information-grid"></div>
+        <div class="section-footnote reveal"><span><i class="tiny-spark">✳</i> 不把信息堆给你，只把选择留给你。</span><a href="#week">换一种看法：本周日历<span data-icon="arrow"></span></a></div>
+      </div>
+    </section>
+
+    <section class="week-section chapter" id="week" aria-labelledby="week-title">
+      <div class="section-shell">
+        <div class="section-heading reveal"><div><p class="eyebrow"><span>02</span> A WEEK OF POSSIBILITIES</p><h2 id="week-title">给好奇心，<em>留一点时间。</em></h2><p class="section-caption">公开课程和活动，放进一周就清楚了。不是你的个人课表。</p></div><div class="week-navigation"><button class="icon-button" data-week="-1" aria-label="上一周"><span data-icon="arrow-left"></span></button><span id="week-range">11.16 — 11.22</span><button class="icon-button" data-week="1" aria-label="下一周"><span data-icon="arrow"></span></button></div></div>
+        <div class="calendar-layout reveal"><div class="calendar-board"><div class="calendar-topline"><span><i class="legend-dot"></i>课程 <i class="legend-dot gold"></i>活动</span><button class="text-button" data-action="current-week">回到示例周<span data-icon="return"></span></button></div><div class="calendar-days" id="calendar-days"></div><div class="calendar-note"><span data-icon="info"></span>全部为虚构安排 · 未按个人课表排除冲突 · 北京时间 UTC+8</div></div><aside class="week-aside" id="week-aside"></aside></div>
+      </div>
+    </section>
+
+    <section class="connection-section chapter" id="connect" aria-labelledby="connect-title">
+      <div class="section-shell">
+        <div class="section-heading reveal"><div><p class="eyebrow"><span>03</span> BETTER, TOGETHER</p><h2 id="connect-title">有些下一步，<em>可以一起走。</em></h2><p class="section-caption">先看互补的可能，再由你决定是否开始。不急着交换联系方式。</p></div><span class="outline-label"><span data-icon="lock"></span>合作流程演示</span></div>
+        <div class="connection-grid" id="connection-grid"></div>
+        <div class="trust-strip reveal"><span class="trust-mark" data-icon="spark"></span><div><strong>不合适的是这一次，不是你。</strong><p>合作没有继续，不会自动改变你的能力与兴趣。任何画像更新，都需要明确依据和你的确认。</p></div><button class="text-button" data-action="principles">了解画像更新<span data-icon="arrow"></span></button></div>
+      </div>
+    </section>
+    <footer class="site-footer"><div class="footer-wordmark">让下一步发生<span>Make room for possibility.</span></div><div><p>宣怀 Agent · 绯金绢光交互原型</p><p>所有人物与信息均为虚构示例，未连接真实 Agent 或学院服务。</p><button class="text-button" data-action="about">关于这个原型<span data-icon="arrow"></span></button></div><a href="#home" class="back-top" aria-label="回到顶部"><span data-icon="arrow-up"></span></a></footer>
+  </main>
+  <nav class="chapter-rail" aria-label="快速切换章节"><a class="active" href="#home" aria-label="我的 Agent"><span>我的 Agent</span><i></i></a><a href="#discover" aria-label="今日整理"><span>今日整理</span><i></i></a><a href="#week" aria-label="本周课程"><span>本周课程</span><i></i></a><a href="#connect" aria-label="合作灵感"><span>合作灵感</span><i></i></a></nav>
+  <dialog class="app-dialog" id="app-dialog" aria-labelledby="dialog-title"><div class="dialog-shell"><header class="dialog-header"><div><p class="eyebrow" id="dialog-eyebrow"></p><h2 id="dialog-title"></h2></div><button class="icon-button close-dialog" aria-label="关闭"><span data-icon="close"></span></button></header><div class="dialog-content" id="dialog-content"></div></div></dialog>
+  <div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
+  <div class="sr-only" id="live-announcement" role="status" aria-live="polite"></div>
+</body>
+</html>

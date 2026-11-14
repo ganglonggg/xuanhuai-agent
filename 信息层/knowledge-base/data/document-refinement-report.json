@@ -1,0 +1,11 @@
+{
+  "articles": 272,
+  "key_points": 963,
+  "new_fact_candidates": 189,
+  "future_or_today_candidates": [
+    "candidate-docx-summary-0003-1",
+    "candidate-docx-summary-0048-4"
+  ],
+  "all_facts_unverified": false,
+  "published_facts": 2
+}
